@@ -1,0 +1,2 @@
+1. implement the correct timeslice handling for synda to reduce the search output only around the year1,year2 given by the filedescriptor
+2. add hostname -f checks inside the code so that it doesn't fail silently when run on a different machine
