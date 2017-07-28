@@ -15,3 +15,5 @@ In that case, the data finder tool would attempt to find exactly those files (no
 This could be a file that was added to publications and all sorts of things ... and a method for user_a and user_b in different locations to ensure that if they tried to replicate an analysis, they were using exactly the same data.
 
 One gotcha to look out for woudl be the need to cache older versions of files that are already in the cache, and you wouldn't want other users to inadvertently use those ..
+
+Use case provenance: http://home.badc.rl.ac.uk/lawrence/blog/2015/03/02/a_citation_and_provenance_system_for_climate_modelling
