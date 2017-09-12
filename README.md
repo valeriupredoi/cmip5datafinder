@@ -16,3 +16,8 @@ on how to use the code. Any questions, please
 address them to the above mentioned email address.
 Cheers!
 
+cmip5datafinder\_v2: 11 September 2017
+======================================
+Highly advisable to use the v2 since it is about a factor
+6 faster than initial version (for queries within BADC), added support
+for other file formats as well. Make sure you have data\_finder in the same path!
